@@ -1,10 +1,3 @@
-	-Geometric centroid of a planar non-self-intersecting polygon AutoLISP routine-
-	Last edited: 11/06/2025
-	Work by: juangrdmz @ https://github.com/Juangrdmz/Geometric-centroid-in-AutoLISP
-	Source: https://mathworld.wolfram.com/PolygonCentroid.html
-
-				                          	--README FILE--
-
 This AutoLISP routine adds the function "CENTROID" wich via entity selection by user gathers
 its vertices coordinates and computes the formulas:
 
