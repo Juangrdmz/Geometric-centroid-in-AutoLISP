@@ -1,3 +1,5 @@
+# Geometric centroid in AutoLISP
+
 This AutoLISP routine adds the function "CENTROID" wich via entity selection by user gathers
 its vertices coordinates and computes the formulas:
 
